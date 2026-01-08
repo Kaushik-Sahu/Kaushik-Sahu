@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaushik Sahu</h1>
-<h3 align="center">I am a Metallurgy and Materials Engineering student at NIT Andhra Pradesh with a deep passion for Full Stack Development. While my academic background is in engineering, I have built a strong foundation in the MERN stack and am currently transitioning into the Next.js ecosystem to build faster, SEO-friendly applications. 🚀 Currently Improving: Coursify, a full-stack course-selling platform where I am optimizing API performance and user experience. 📖 Learning: Deep diving into Next.js and server-side rendering. 🛠️ Core Skills: JavaScript (ES6+), React, Node.js, Express, MongoDB, and SQL. 🎯 Goal: Building robust, scalable software solutions that solve real-world problems.</h3>
+<h3 align="center">I am a Metallurgy and Materials Engineering student at NIT Andhra Pradesh with a deep passion for Full Stack Development. While my academic background is in engineering, I have built a strong foundation in the MERN stack and am currently transitioning into the Next.js ecosystem to build faster, SEO-friendly applications. 
+🚀 Currently Improving: Coursify, a full-stack course-selling platform where I am optimizing API performance and user experience. 
+📖 Learning: Deep diving into Next.js and server-side rendering. 🛠️ Core Skills: JavaScript (ES6+), React, Node.js, Express, MongoDB, and SQL.
+🎯 Goal: Building robust, scalable software solutions that solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushik-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik-sahu" /> </p>
 
